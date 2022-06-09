@@ -1,0 +1,22 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "THIS IS REPROSITORY FOR MAKING PROJECT OF TO-DO LIST USING REACH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishaan51551/TODO-LIST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishaan51551/TODO-LIST/issues"
+  },
+  "homepage": "https://github.com/ishaan51551/TODO-LIST#readme",
+  "dependencies": {
+    "react-icons": "^4.4.0"
+  }
+}
